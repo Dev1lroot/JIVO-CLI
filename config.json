@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Игры",
+        "items": [
+            {
+                "image": "",
+                "title": "Terraria",
+                "shell": "steam://rungameid/105600"
+            }
+        ]
+    },
+    {
+        "title": "Работа",
+        "items": [
+            {
+                "image": "",
+                "title": "PHP Storm",
+                "shell": "C:\\Program Files\\JetBrains\\PhpStorm 2021.1.1\\bin\\phpstorm64.exe"
+            }
+        ]
+    },
+    {
+        "title": "Хакинг",
+        "items": [
+            
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Разработка JIVO",
+        "code":  "JDEV",
+        "items": [
+            {
+                "title": "Добавить в программу создание задач",
+                "status": 0,
+                "assignees": ["root","test","Dev1lroot"],
+                "watchers": ["root"]
+            },
+            {
+                "title": "Тестовая задача",
+                "status": 0,
+                "assignees": [],
+                "watchers": []
+            },
+            {
+                "title": "Добавить в программу редактирование задач",
+                "status": 1,
+                "assignees": ["Dev1lroot"],
+                "watchers": ["root"]
+            },
+            {
+                "title": "Добавить в программу удаление задач",
+                "status": 2,
+                "assignees": ["root"],
+                "watchers": ["Dev1lroot"]
+            }
+        ]
+    }//,
+    // {
+    //     "title": "Прочие разработки",
+    //     "code": "OTHR"
+    // },
+    // {
+    //     "title": "Секрет",
+    //     "code": "HDEV"
+    // },
+    // {
+    //     "title": "Секрет",
+    //     "code": "SDEV"
+    // }
+]
